@@ -1,13 +1,13 @@
 # School Management System
 ## Home page 
-![main page]()
+![main page](view.png)
 
+
+## Add Student
+![Add](add.png)
 
 ## Search function
-![search]()
+![search](search.png)
 
 ## Delete
-![delete]()
-
-
-
+press delete to remove user from the database 
